@@ -2,6 +2,19 @@
 
 Implementation of the paper "End to End Learning for Self-Driving Cars"
 
+## Citing
+
+If you find this code useful in your research, please consider citing the blog:
+
+```
+@misc{sagardriving,
+  Author = {Abhinav Sagar},
+  Title = {How to Train Your Self Driving Car Using Deep Learning},
+  Year = {2019},
+  Journal = {Towards Data Science},
+}
+```
+
 ## IMPORTANT
 
 Absolutely, under NO circumstance, should one ever pilot a car using computer vision software trained with this code (or any home made software for that matter).
@@ -31,19 +44,6 @@ The driving simulator would save frames from three front-facing "cameras", recor
 1. https://arxiv.org/pdf/1604.07316.pdf
 
 2. http://cs231n.stanford.edu/reports/2017/pdfs/626.pdf
-
-## Citing
-
-If you find this code useful in your research, please consider citing the blog:
-
-```
-@misc{sagardriving,
-  Author = {Abhinav Sagar},
-  Title = {How to Train Your Self Driving Car Using Deep Learning},
-  Year = {2019},
-  Journal = {Towards Data Science},
-}
-```
 
 ## License
 
